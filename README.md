@@ -1,7 +1,7 @@
-Course Building web applications with Ruby on Rails
+Building web applications with Ruby on Rails
 =============
 
-## About
+## About this course
 
 This course is for programmers looking to build web-based applications
 (includes programmers who are new to web development).
