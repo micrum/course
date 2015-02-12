@@ -12,8 +12,6 @@ framework studied synchronously.
 
 ## Course syllabus
 
-<ol start="0">
-  <li>[Introduction, Ruby on Rails overview, tools](0_lecture.md)</li>
-  <li> item 2</li>
-  <li> item 3</li>
-</ol>
+
+* [Introduction, Ruby on Rails overview, tools](0_lecture.md)
+* In progress...
