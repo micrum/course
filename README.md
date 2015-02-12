@@ -12,4 +12,4 @@ framework studied synchronously.
 
 ## Course syllabus
 
-0. (Introduction, Ruby on Rails overview, tools)[0_lecture.md]
+0. [Introduction, Ruby on Rails overview, tools](0_lecture.md)
