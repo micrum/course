@@ -1,5 +1,4 @@
-Building web applications with Ruby on Rails
-=============
+# Building web applications with Ruby on Rails
 
 ## About this course
 
@@ -12,6 +11,6 @@ framework studied synchronously.
 
 ## Course syllabus
 
-
 * [Introduction, Ruby on Rails overview, tools](0_lecture.md)
+* [First Rails application. Git, Bundler, RubyGems](1_lecture.md)
 * In progress...

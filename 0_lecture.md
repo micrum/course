@@ -118,3 +118,4 @@ Don't Repeat Yourself - гэта прынцып філасофіі Rails, сут
 
     $ sudo apt-get install git
 
+[наступны занятак >>](1_lecture.md)
