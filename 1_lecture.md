@@ -41,8 +41,8 @@
 
 #### git push
 
-   $ git remote add origin https://github.com/micrum/course-app.git
-   $ git push -u origin master
+    $ git remote add origin https://github.com/micrum/course-app.git
+    $ git push -u origin master
 
 #### git branches
 
@@ -53,7 +53,7 @@
 
     gem 'puma'
     
-Ibstall puma and Merging:
+Install puma and Merging:
 
     $ bundle
     $ git commit -a -m "Update web-server"
