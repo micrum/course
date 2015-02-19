@@ -49,7 +49,11 @@
     $ git checkout -b change-web-server
     $ git branch
 
+*Gemfile*
+
     gem 'puma'
+    
+Ibstall puma and Merging:
 
     $ bundle
     $ git commit -a -m "Update web-server"
