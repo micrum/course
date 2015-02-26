@@ -56,6 +56,10 @@
       #Heroku integration
       gem 'rails_12factor'
     end
+    
+without production:
+
+    $ bundle install --without production
 
 Разгортванне:
 
