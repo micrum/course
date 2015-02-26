@@ -19,18 +19,18 @@
 Дадаем новы маршрут кантроллера Pages:
 
     # config/routes.rb
-    get 'pages/students'
+    get 'pages/testimonials'
     
 Ствараем action:
 
     # app/controllers/pages_controller.rb
-    def students
+    def testimonials
     end
 
 Дадаем View:
 
-    # app/views/pages/students.html.erb
-    <h1>Students list</h1>
+    # app/views/pages/testimonials.html.erb
+    <h1>Testimonials</h1>
     
 ## Разгортванне на Heroku
 
