@@ -11,6 +11,18 @@
     # config/routes.rb
     root  'pages#home'
     
+Дынамічны кантэнт:
+
+    # app/controllers/pages_controller.rb
+    def home
+        @hello = 'Hi there!'
+    end
+    
+Абнаўляем View:
+
+    # app/views/pages/home.html.erb
+    <h1><%= @hello %></h1>
+    
 Дадаем іменаваны маршрут:
 
     # config/routes.rb
