@@ -13,7 +13,7 @@ framework studied synchronously.
 
 * [Introduction, Ruby on Rails overview, tools](0_lecture.md)
 * [First Rails application. Git, Bundler, RubyGems](1_lecture.md)
-* [Rails app architecture. MVC](2_lecture.md)
+* [Rails app architecture. MVC. Deploy to Heroku](2_lecture.md)
 * In progress...
 
 ## Useful links
@@ -22,4 +22,4 @@ framework studied synchronously.
 
 ## Presentations
 
-[UNIX basics](presentations/unix_basics.pdf)
+[UNIX basics](presentations/unix_basics.pdf) by Uladzimir Okala-Kulak
