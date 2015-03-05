@@ -14,7 +14,7 @@ framework studied synchronously.
 * [Introduction, Ruby on Rails overview, tools](0_lecture.md)
 * [First Rails application. Git, Bundler, RubyGems](1_lecture.md)
 * [Rails app architecture. MVC. Deploy to Heroku](2_lecture.md)
-* [Static pages. HTML & CSS overview. Bootstrap](3_lecture.md)
+* [Static pages. HTML & CSS in Rails. Bootstrap](3_lecture.md)
 * In progress...
 
 ## Useful links

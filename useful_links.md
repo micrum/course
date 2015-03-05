@@ -33,6 +33,10 @@ Everything you need to become an expert in web development
 
 [CSS(3) Tutorial](http://www.w3schools.com/css/) W3Schools CSS tutorial
 
+[CSS Reference](http://tympanus.net/codrops/css_reference/) Extensive CSS reference
+
+[Bootstrap CSS](http://getbootstrap.com/css/) Bootstrap CSS documentation
+
 ## JavaScript
 
 [JavaScript path](https://www.codeschool.com/paths/javascript) Interactive CodeSchool courses
