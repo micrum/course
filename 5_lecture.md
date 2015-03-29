@@ -1,4 +1,4 @@
-# 5.
+# 5. Active Record basics. Rails models. Databases and Rails app
 
 
 [<< папярэдні занятак](4_lecture.md)
