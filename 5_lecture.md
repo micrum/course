@@ -171,6 +171,19 @@ Testimonial model validations:
     class Testimonial < ActiveRecord::Base
       validates :user_name, :feedback, presence: true
     end
+    
+#### Add migration
+
+    $ rails g migration AddNameToStudents
+    
+Add column to table:
+ 
+    # db/migrate/20150402182133_add_name_to_students.rb
+    class AddNameToStudents < ActiveRecord::Migration
+      def change
+        add_column :students, :name, :string
+      end
+    end
 
 
 [<< папярэдні занятак](4_lecture.md)
