@@ -26,3 +26,5 @@ framework studied synchronously.
 ## Presentations
 
 [UNIX basics](presentations/unix_basics.pdf) by Uladzimir Okala-Kulak
+[ODESK online work report](presentations/odesk/eo_global_report.pdf) by @Pliashkou
+[ODESK owerview](presentations/odesk/odesk.pdf) by Yury Pliashkou
