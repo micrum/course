@@ -15,6 +15,8 @@ Everything you need to become an expert in web development
 
 [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) Community-driven Ruby coding style
 
+[Ruby basics](http://learnxinyminutes.com/docs/ru-ru/ruby-ru/) Whirlwind tour to Ruby
+
 ## Ruby on Rails
 
 [http://guides.rubyonrails.org/](http://guides.rubyonrails.org/) Ruby on Rails guides
