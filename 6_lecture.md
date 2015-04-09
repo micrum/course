@@ -14,7 +14,7 @@ New testimonial form
 
         <div class="form-group">
           <%= f.label :feedback, class: 'col-md-4 control-label' %>
-          <div class="col-md-6">
+          <div class="coal-md-6">
             <%= f.text_area :feedback, class: 'form-control' %>
           </div>
         </div>
@@ -38,7 +38,7 @@ Display errors on form
         <b><%= pluralize(@testimonial.errors.count, "error") %> on form.</b>
         <ul>
           <% @testimonial.errors.full_messages.each do |message| %>
-              <li>* <%= messge %></li>
+              <li>* <%= message %></li>
           <% end %>
         </ul>
       </div>
