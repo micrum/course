@@ -10,7 +10,7 @@ The peculiarity of this course is that the Ruby language and Ruby on Rails
 framework studied synchronously.
 
 Check out [repo](https://github.com/micrum/course-app) and
-[live version](https://course-app.herokuapp.com/) of demo application built on course
+[live version](https://course-app.herokuapp.com/) of demo application built on course.
 
 ## Course syllabus
 
@@ -24,16 +24,20 @@ Check out [repo](https://github.com/micrum/course-app) and
 * [Authentication. Rails sessions. Active Record callbacks](7_lecture.md)
 * In progress...
 
-## Resources
-
-#### Useful links
+## Useful links
 
 [List of recommended resources](useful_links.md)
 
-#### Presentations
+[course community on vk.com](https://vk.com/rubyway)
 
-[UNIX basics](presentations/unix_basics.pdf) by Uladzimir Okala-Kulak
 
-[ODESK online work report](presentations/odesk/eo_global_report.pdf) by [Yury Pliashkou](https://github.com/Pliashkou)
+## Contributing
 
-[ODESK owerview](presentations/odesk/odesk.pdf) by [Yury Pliashkou](https://github.com/Pliashkou)
+Found an mistake? Pull-requests are highly appreciated.
+
+## Course speakers
+
+* [Michael Rumiancaŭ](https://github.com/micrum) - Main Ruby on Rails scope
+* Uladzimir Okala-Kulak - [UNIX basics](presentations/unix_basics.pdf)
+* [Yury Pliashkou](https://github.com/Pliashkou) - [ODESK owerview](presentations/odesk/)
+* [Valentine Zavadsky](https://github.com/Saicheg) - Rails testing
