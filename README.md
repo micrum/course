@@ -21,15 +21,14 @@ Check out [repo](https://github.com/micrum/course-app) and
 * [Action Controller overview. REST. HTTP](4_lecture.md)
 * [Rails models. Active Record basics. Databases and Rails app. Migrations](5_lecture.md)
 * [Intro to object-oriented programming. Ruby language basics](6_lecture.md)
-* [Authentication. Rails sessions. Active Record callbacks](7_lecture.md)
+* [Authentication. Sessions. Acton Controller Filters. Flash-messages](7_lecture.md)
 * In progress...
 
 ## Useful links
 
 [List of recommended resources](useful_links.md)
 
-[course community on vk.com](https://vk.com/rubyway)
-
+[Course community on vk.com](https://vk.com/rubyway)
 
 ## Contributing
 
