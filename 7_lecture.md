@@ -27,9 +27,9 @@ end
 
 Пасля усталёўкі трэба будзе перазапусціць сервер.
 
-Ствараем карыстальніка:
-   
-    $ Mentor.create(name: 'mentor_name', password: 'password')
+Ствараем карыстальніка у Rails кансолі:
+
+    > Mentor.create(name: 'mentor_name', password: 'password')
 
 Ствараем кантроллер для адміністрацыйнай старонкі ментара:
 
@@ -44,6 +44,7 @@ end
 Дадаем адміністрацыйную старонку:
 
 ```ruby
+# app/views/mentor/index.html.erb
 <div class="page-header">
   <h1>Welcome, Admin!</h1>
 </div>
