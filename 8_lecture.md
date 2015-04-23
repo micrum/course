@@ -1,4 +1,4 @@
-# 8. Аўтарызацыя. Фільтры Action Controller.
+# 8. Аўтарызацыя. CRUD. Фільтры Action Controller.
 
 
 [<< папярэдні занятак](7_lecture.md)

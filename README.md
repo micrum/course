@@ -22,10 +22,10 @@ Check out [repo](https://github.com/micrum/course-app) and
 * [Rails models. Active Record basics. Databases and Rails app. Migrations](5_lecture.md)
 * [Intro to object-oriented programming. Ruby language basics](6_lecture.md)
 * [Authentication. Sessions](7_lecture.md)
-* [Authorization. Acton Controller Filters](8_lecture.md)
-* Active Record Associations
+* [Authorization. CRUD. Acton Controller Filters](8_lecture.md)
+* Active Record associations and callbacks
 * JavaScript basics. AJAX
-* In progress...
+* Active Support. Rails configuring. Useful gems overview
 
 ## Useful links
 
@@ -43,3 +43,4 @@ Found an mistake? Pull-requests are highly appreciated.
 * Uladzimir Okala-Kulak - [UNIX basics](presentations/unix_basics.pdf)
 * [Yury Pliashkou](https://github.com/Pliashkou) - [ODESK owerview](presentations/odesk/)
 * [Valentine Zavadsky](https://github.com/Saicheg) - Rails testing
+* [Alex Zaytsev](https://github.com/AlexZaytsev) - Ruby garbage collector
