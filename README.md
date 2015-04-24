@@ -23,7 +23,7 @@ Check out [repo](https://github.com/micrum/course-app) and
 * [Intro to object-oriented programming. Ruby language basics](6_lecture.md)
 * [Authentication. Sessions](7_lecture.md)
 * [Authorization. CRUD. Acton Controller Filters](8_lecture.md)
-* Active Record associations and callbacks
+* [Active Record associations and callbacks](9_lecture.md)
 * JavaScript basics. AJAX
 * Active Support. Rails configuring. Useful gems overview
 
