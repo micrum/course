@@ -35,7 +35,7 @@ end
         <li><%= button_to 'Logout', logout_path, method: :delete, class: 'btn navbar-btn' %></li>
       </ul>
   <% else %>
-      <%= button_to 'Login', login_path, class: 'btn navbar-btn pull-right' %>
+      <%= link_to 'Login', login_path, class: 'btn navbar-btn pull-right' %>
   <% end %>
 </nav> 
 ```
