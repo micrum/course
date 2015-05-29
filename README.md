@@ -24,8 +24,7 @@ Check out [repo](https://github.com/micrum/course-app) and
 * [Authentication. Sessions](7_lecture.md)
 * [Authorization. CRUD. Acton Controller Filters](8_lecture.md)
 * [Active Record associations](9_lecture.md)
-* Active Record callbacks
-* JavaScript in Ruby on Rails. AJAX
+* [JavaScript in Ruby on Rails. AJAX. Active Record callbacks](10_lecture.md)
 * Active Support. Rails configuring. Useful gems overview
 
 ## Useful links
@@ -44,4 +43,3 @@ Found an mistake? Pull-requests are highly appreciated.
 * Uladzimir Okala-Kulak - [UNIX basics](presentations/unix_basics.pdf)
 * [Yury Pliashkou](https://github.com/Pliashkou) - [ODESK owerview](presentations/odesk/)
 * [Valentine Zavadsky](https://github.com/Saicheg) - Rails testing
-* [Alex Zaytsev](https://github.com/AlexZaytsev) - Ruby garbage collector
